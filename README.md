@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Yo 👋 What's good?</h1>
 
 ###
 
-<p align="left">My name is Iduozee Destiny and I'm awesome 🔥</p>
+<p align="left">I'm Iduozee Destiny — a curious builder who loves turning ideas into code 🔥</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first "Hello, World!"<br>📚 I'm currently learning Rust and game development<br>🎯 Goals: Build 'Lagos Traffic Tycoon' and automate social media with AI<br>🎲 Fun fact: I once fixed a bug by accident and still don't know how 😅</p>
+<p align="left">
+🚀 Passionate about building innovative digital experiences, with a strong interest in creative tech and automation<br>
+📚 Currently diving deep into Rust and expanding my skills in game development<br>
+🎯 Working on a simulation game project called ‘Lagos Traffic Tycoon’ and developing AI-powered tools for social media<br>
+💡 Always curious, always learning — I love turning complex ideas into real, working products
+</p>
+
 
 ###
 
