@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-🚀 Passionate about building innovative digital experiences, with a strong interest in creative tech and automation<br>
-📚 Currently diving deep into Rust and expanding my skills in game development<br>
-🎯 Working on a simulation game project called ‘Lagos Traffic Tycoon’ and developing AI-powered tools for social media<br>
-💡 Always curious, always learning — I love turning complex ideas into real, working products
+🚀 Passionate about building meaningful digital experiences with a focus on creativity and impact<br>
+📚 Currently sharpening my Rust skills and learning more about game development<br>
+🎯 Working on SkillSwap — a decentralized platform for micro-learning and skill exchange, as well as a simulation game called ‘Lagos Traffic Tycoon’<br>
+💡 I enjoy solving real-world problems with code and turning ambitious ideas into usable products
 </p>
 
 
